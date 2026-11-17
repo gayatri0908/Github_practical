@@ -1,1 +1,3 @@
 # Github_practical
+NAME = GAYATRI KAPASE
+PRN = 20240211006
